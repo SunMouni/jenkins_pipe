@@ -1,1 +1,1 @@
-echo"new jenkins pipeline"
+echo"new jenkins pipeline file"
